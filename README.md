@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão aprimorada do seu README com uma estrutura mais clara, correção de pequenos erros e explicações mais precisas. Mantive o conteúdo técnico e o estilo direto, sem emojis:
-
----
-
 # Comandos Linux — Trabalho G2
 
 Este documento apresenta exemplos de uso de comandos Linux utilizados na criação, edição, permissões e transferência de arquivos e diretórios.
