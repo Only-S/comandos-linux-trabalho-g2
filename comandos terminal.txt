@@ -1,0 +1,125 @@
+who
+ls -la
+pwd
+echo 12 > 1.txt
+echo > 1.txt
+echo
+touch > 2.txt
+touch 2.txt
+ls -la
+echo oi2 > index.html
+ls -la
+echo maça >> index.html
+ls -la
+who
+ls -la
+chmod 640 index.html
+ls -la
+nano index.html
+nano index.html
+nano index.html
+utime
+date
+echo date > ex.sh
+echo oi >> ex.sh
+./ex.sh
+chmod 600 index.html
+chmod 640 index.html
+chmod 744 ex.sh
+ls -la
+./ex.sh
+chmod 700 ex.sh
+./ex.sh
+./ex.sh
+nano ex.sh
+./ex.sh
+ls -la
+exit
+ls -la
+cat /etc/password
+cat /etc/passwd
+cat index.html
+cat /etc/passwd
+-f1 /etc/passwd
+cut -d: -f1 /etc/passwd
+env
+echo $USER
+echo $SHELL
+cat /etc/shells
+env
+nano ex.sh
+./ex.sh
+nano ex.sh
+./ex.sh
+nano ex.sh
+./ex.sh
+ls -la
+/var/www/html/aluno1/ex.sh
+/var/www/html/aluno1/ex.sh
+pwd
+ls -l
+clear
+mkdir exercicio_chmod
+cd exercicio_chmod
+touch arquivo1.txt
+ls -l
+clear
+ls -l
+chmodchmod 600 arquivo1.txt
+chmod 600 arquivo1.txt
+ls -l
+clear
+ls -l
+touch arquivo2.txt
+chmod 454 arquivo2.txt
+ls -l
+chmod 744 arquivo2.txt
+ls -l
+touch arquivo3.txt
+clear
+delete arquivo3.txt
+rm arquivo3.txt
+ls -l
+clear
+ls -l
+touch arquivo3.txt
+ls -l
+chmod 666 arquivo3.txt
+ls -l
+cat arquivo3.txt
+nano arquivo3.txt
+ls -l
+cat
+cat arquivo3.txt
+uptime
+ps aux
+ps aux | grep $USER
+top
+htop
+htop
+clear
+free -h
+ping google.com > ping_test.txt &
+
+ls -la
+ls -lah
+ls -lah
+ps aux | grep ping
+kill -STOP 2726943
+kill -STOP 2726330
+ls -lah
+ls -lah
+kill -CONT 2726330
+ls -lah
+ls -lah
+kill 2726330
+ps aux | grep ping
+cat ping_test.txt
+clear
+cat ping_test.txt
+ nano $HOME/monitor_sistema.sh
+chmod +x monitor_sistema.sh 
+monitor_sistema.sh
+$HOME/monitor_sistema.sh 
+exit
+exit
